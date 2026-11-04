@@ -1,2 +1,1 @@
-# hamclock
-Ham Clock repos
+#
